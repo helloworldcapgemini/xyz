@@ -1,0 +1,41 @@
+
+https://vs6learn.visualstudio.com/MyFirstProject/_build
+How to check how many pipelines and agents we have?
+personnal access token
+h7p34f34cc5mfpunpynpvy7qglooivh3e2uqq6pkipc4lzlxa5nq
+
+tracert www.google.com
+
+add azure compibality in powershell
+2211564
+
+container
+docker
+azure stack
+function virtualization
+azure cosmos db
+
+aws
+azure subscription 
+google cloud
+azure 70-533 certification course
+https://aws.amazon.com/partners/training/
+Aws@138281
+
+
+Read both build and release pipeline with sample cloud app
+
+Function apps
+Elastic apps
+Bot Services
+Genomics account
+logic apps
+
+
+
+api key sendgrid-
+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
+
+azure user-
+zaroon@nikhil1041gmail.onmicrosoft.com
+Soxu5942
